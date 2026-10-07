@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Eclipse/VS Code Java output ###
+bin/
